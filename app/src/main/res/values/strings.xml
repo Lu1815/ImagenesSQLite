@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImagenesSQLite</string>
+    <string name="imgName">Enter the image name here</string>
+    <string name="btn">Save Image</string>
+    <string name="btn2">Move to show activity</string>
+    <string name="btnShow">Show Images</string>
+    <string name="tvItem">Image Details</string>
+</resources>
